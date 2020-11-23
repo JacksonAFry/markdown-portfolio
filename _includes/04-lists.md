@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### 3 things I like
+- Computers
+-  Motorized vehicles
+- Music
